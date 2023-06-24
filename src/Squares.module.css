@@ -1,0 +1,14 @@
+.App {
+	text-align: center;
+}
+
+body {
+	background-color: darkgray;
+	color: grey;
+}
+.squares {
+	display: flex;
+	width: 180px;
+	flex-wrap: wrap;
+	margin: auto;
+}
